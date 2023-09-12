@@ -1,0 +1,1 @@
+This is a reprository where I create a portfolio for myself. On the portfolio, a self introduction paragraph about me is present. Two temporary applications are present and will be further updated in the future. Contact infos are displayed at the bottom.# Challenge2
